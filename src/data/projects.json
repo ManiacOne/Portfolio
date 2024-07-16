@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MyPlan8",
+    "imageSrc": "projects/myplan8.png",
+    "description": "This app helps in reducing carbon footprints. Fighting climate change is not easy. However, according to UNEP if 1 billion out of 8 billion people adopt eco-friendly behaviors in their daily lives, global carbon emissions could reduce by about 20%. We’re here to make it easy!",
+    "technologies": ["Flutter", "Bloc", "Firebase", "Dart", "React", "Typsecript", "Rest Api"],
+    "demo": "https://play.google.com/store/apps/details?id=earth.myplan8.app",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Bunkmeal",
+    "imageSrc": "projects/bunkmeal.png",
+    "description": "This app is an online food delivery app. Reimagine Cafeteria Management with BunkMeal's Dynamic Solutions",
+    "technologies": ["React", "Express", "Node", "Sass"],
+    "demo": "https://play.google.com/store/apps/details?id=com.bunkmeal.bunkmealc&hl=en_IN",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Norwegian Learning App",
+    "imageSrc": "projects/norwegian.png",
+    "description": "An website to help students learn norwegian language with the help of various courses and activities. This website provides quizes, flashcards and courses which in return helps student to learn seamlessly.",
+    "technologies": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

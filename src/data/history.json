@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Intelekt AI",
+    "startDate": "October, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Led frontend engineering for sustainability and food delivery applications, integrating complex APIs and advanced state management for seamless user experiences.",
+       "Spearheaded the development of intricate features necessitating advanced state management techniques, ensuring seamless user interaction and system stability",
+       "Facilitated the seamless integration of complex APIs, enhancing application functionality and performance to deliver a cohesive user experience.",
+      "Technologies/Framework : Flutter, Bloc, Google Maps, Background Services, PhonePe Payment, Firebase, React TypeScript, Ant Design, and Zustand"
+      ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Cleanstrap",
+    "startDate": "Jan 2021",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Developedwebsites and apps for clients",
+      "Led frontend engineering for sustainability and food delivery applications, integrating complex APIs and advanced state management for seamless user experiences.",
+      "Designed and implemented scalable architectures for high-traffic applications, ensuring optimal performance and reliability.",
+      "Enhanced application security and performance through rigorous testing and optimization.",
+      "Technologies/Framework : Flutter, React, HTML, CSS, TypeScript, Tailwind, Node, Express, MongoDB, Firebase, Payment Services(stripe, razorpay)"
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]
