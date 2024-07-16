@@ -1,7 +1,7 @@
 import React from "react";
-
+import video from "../../../assets/hero/avatar.mp4";
 import styles from "./Hero.module.css";
-import { getImageUrl } from "../../utils";
+
 
 export const Hero = () => {
   return (
@@ -9,18 +9,21 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Deepraj</h1>
         <p className={styles.description}>
-          I'm a frontend developer with 2 years of experience using Flutter and React
+          Your friendly neigbourhood developer  
         </p>
         <a href="mailto:deepraajdas@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
-      <img
-        src={getImageUrl("hero/heroImage.png")}
+      <video autoPlay loop className={styles.heroVideo}>
+        <source src={video} type="video/mp4"/>
+      </video>
+      {/* <img
+        src={getImageUrl("hero/heroImage.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
-      />
-      <div className={styles.topBlur} />
+      /> */}
+      {/* <div className={styles.topBlur} /> */}
       <div className={styles.bottomBlur} />
     </section>
   );
